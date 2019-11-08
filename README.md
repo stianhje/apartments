@@ -1,13 +1,12 @@
 # Apartment Building with 30 separet apartments
 
-I did not make or convert this interior all credits has to go to ![DPSGTA](https://forum.fivem.net/u/dpsgta/)
-for the job he did converting this interor from GTA IV
+I did not make or convert this interior all credits has to go to [DPSGTA](https://forum.fivem.net/u/dpsgta/) for the job he did converting this interor from GTA IV
 
 Link to DPSGTA released interior: https://forum.fivem.net/t/release-gta-iv-playboy-x-interior/863420
 
 I've just placed them out in an apartment building, there are 30 apartments.
 
-[![video](https://i.gyazo.com/a6ea9cb7fca827d0f7619ae210970f7b.jpg)](https://streamable.com/8ly3e)
+https://streamable.com/8ly3e
 
 # Coordinates:
 apartment 1: -265.0146, -729.1579, 117.7554</br>
