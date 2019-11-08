@@ -1,4 +1,4 @@
-# Apartment Building with 30 separet apartments
+# Apartment Building with 30 separate apartments
 
 I did not make or convert this interior all credits has to go to [DPSGTA](https://forum.fivem.net/u/dpsgta/) for the job he did converting this interor from GTA IV
 
