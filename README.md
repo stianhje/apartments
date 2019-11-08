@@ -5,6 +5,8 @@ Original converter of the GTA IV interior: https://forum.fivem.net/t/release-gta
 I've just placed them out in an apartment building, there are 30 apartments.
 https://streamable.com/8ly3e
 
+https://forum.fivem.net/uploads/default/original/4X/6/6/4/664cb8d4ed09a3dfbbea7d4341675b17cc3fdede.jpeg
+
 # Coordinates:
 apartment 1: -265.0146, -729.1579, 117.7554</br>
 apartment 2: -265.0146, -729.1579, 112.6611</br>
