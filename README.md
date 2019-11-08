@@ -1,6 +1,6 @@
 # Apartment Building with 30 separate apartments
 
-I did not make or convert this interior all credits has to go to [DPSGTA](https://forum.fivem.net/u/dpsgta/) for the job he did converting this interor from GTA IV
+I did not make or convert this interior all credits has to go to [DPSGTA](https://forum.fivem.net/u/dpsgta/) for the job he did converting this interior from GTA IV
 
 Link to DPSGTA released interior: https://forum.fivem.net/t/release-gta-iv-playboy-x-interior/863420
 
